@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart';
+import 'package:flutter_stripe/flutter_stripe.dart';
 class Homepage extends StatefulWidget {
   const Homepage({super.key});
 
